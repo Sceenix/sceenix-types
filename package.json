@@ -1,13 +1,21 @@
 {
     "name": "@sceenix/sceenix-types",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Public TypeScript definitions for building automated, code-driven video tutorials and workflows with Sceenix.",
     "license": "Apache-2.0",
     "type": "module",
+    "main": "./index.js",
     "types": "./types.d.ts",
     "files": [
-        "types.d.ts"
+        "types.d.ts",
+        "index.js"
     ],
+    "exports": {
+        ".": {
+            "types": "./types.d.ts",
+            "import": "./index.js"
+        }
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Sceenix/sceenix-types.git"
