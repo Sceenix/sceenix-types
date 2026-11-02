@@ -1,0 +1,10 @@
+{
+    "name": "sceenix-types",
+    "version": "0.0.1",
+    "license": "Apache-2.0",
+    "type": "module",
+    "types": "./types.d.ts",
+    "files": [
+        "types.d.ts"
+    ]
+}
