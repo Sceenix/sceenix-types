@@ -1,6 +1,6 @@
 {
     "name": "@sceenix/sceenix-types",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Public TypeScript definitions for building automated, code-driven video tutorials and workflows with Sceenix.",
     "license": "Apache-2.0",
     "type": "module",
@@ -8,7 +8,8 @@
     "types": "./types.d.ts",
     "files": [
         "types.d.ts",
-        "index.js"
+        "index.js",
+        "types.js"
     ],
     "repository": {
         "type": "git",
