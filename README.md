@@ -4,7 +4,7 @@
 
 Public TypeScript definitions for building automated, code-driven video tutorials and workflows with Sceenix.
 
-[![npm version](https://img.shields.io/npm/v/sceenix-types.svg)](https://www.npmjs.com/package/sceenix-types)
+[![npm version](https://img.shields.io/npm/v/sceenix-types.svg)](https://www.npmjs.com/package/@sceenix/sceenix-types)
 [![Website](https://img.shields.io/badge/website-sceenix.com-blue.svg)](https://sceenix.com)
 [![TypeScript](https://img.shields.io/badge/types-TypeScript-informational)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
