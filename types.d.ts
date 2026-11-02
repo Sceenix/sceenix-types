@@ -28,7 +28,7 @@ export interface TextBlock {
     fontColor?: string;
     isBold?: boolean;
 }
-export interface Scene {
+export interface Caption {
     blocks: TextBlock[];
     start: number;
     end: number;
@@ -68,7 +68,7 @@ export interface JobConfig {
     subtitles?: SubtitleTrackConfig[];
     deviceType: DeviceType;
     outputFile: string;
-    scenes?: Scene[];
+    captions?: Caption[];
     captionAlign?: VerticalAlignment;
     sidebar?: SidebarConfig;
     canvas?: CanvasConfig;
