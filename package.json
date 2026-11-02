@@ -1,10 +1,27 @@
 {
     "name": "@sceenix/sceenix-types",
     "version": "0.0.2",
+    "description": "Public TypeScript definitions for building automated, code-driven video tutorials and workflows with Sceenix.",
     "license": "Apache-2.0",
     "type": "module",
     "types": "./types.d.ts",
     "files": [
         "types.d.ts"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sceenix/sceenix-types.git"
+    },
+    "keywords": [
+        "Sceenix",
+        "Automation",
+        "Tutorials",
+        "Video",
+        "Recordings"
+    ],
+    "author": "Pratheek Adidela <apratheek@unaxiom.com>",
+    "bugs": {
+        "url": "https://github.com/Sceenix/sceenix-types/issues"
+    },
+    "homepage": "https://sceenix.com"
 }
