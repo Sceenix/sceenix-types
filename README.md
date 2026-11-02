@@ -1,5 +1,9 @@
 # Sceenix Types
 
+<p align="center">
+  <img src="https://pub-a0c24697b05f46f48f1c223ce999feb1.r2.dev/logos/logo-512px.png" alt="Sceenix Logo" width="128" height="128">
+</p>
+
 ### **Stop Recording. Start Engineering.**  
 
 Public TypeScript definitions for building automated, code-driven video tutorials and workflows with Sceenix.
