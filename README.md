@@ -35,13 +35,13 @@ pnpm add sceenix-types
 
 The package exports robust type definitions covering:
 
-    - Engine Configurations: Viewports, resolutions, and rendering settings.
+- Engine Configurations: Viewports, resolutions, and rendering settings.
 
-    - Pipeline Jobs: Step definitions, UI automation parameters, and asset bindings.
+- Pipeline Jobs: Step definitions, UI automation parameters, and asset bindings.
 
-    - CLI & CLI Flags: Argument typing for command-line execution and overrides.
+- CLI & CLI Flags: Argument typing for command-line execution and overrides.
 
-    - Output Modifiers: Watermark toggles, outro controls, and export format targets.
+- Output Modifiers: Watermark toggles, outro controls, and export format targets.
 
 
 ## Resources
