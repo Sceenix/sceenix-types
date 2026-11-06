@@ -1,6 +1,6 @@
 {
     "name": "@sceenix/sceenix-types",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Public TypeScript definitions for building automated, code-driven video tutorials and workflows with Sceenix.",
     "license": "Apache-2.0",
     "type": "module",

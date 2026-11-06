@@ -1,3 +1,6 @@
+/**
+ * A mapping of valid devices (excluding 'None') to their corresponding physical and rendering properties.
+ */
 export const Devices = {
     MacBookPro: { width: 3456, height: 2234, name: "MacbookPro16.Landscape", videoScaleFactor: 2, isMobile: false },
     iPhone18ProMax: { width: 1320, height: 2868, name: "iPhone18ProMax.Portrait", videoScaleFactor: 3, isMobile: true },
